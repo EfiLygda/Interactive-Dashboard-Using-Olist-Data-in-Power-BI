@@ -10,3 +10,24 @@ An interactive Power BI dashboard analyzing the Olist Brazilian e-commerce datas
 
 > [!NOTE] 
 > This repository uses the data available at [Kaggle](https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database).
+
+## Dashboard Tabs
+
+### Summary
+
+### Customer & Sales Details
+
+### Product Details
+
+### Map
+
+### Tooltips
+
+#### Category
+#### Orders
+#### Review Score
+
+
+### Colorset
+
+Contains the 

@@ -51,8 +51,3 @@ An interactive Power BI dashboard analyzing the Olist Brazilian e-commerce datas
 ### Colorset
 
 ![](./Demos/8.%20Colour%20Sets.PNG)
-
-
-
-
-Contains the 

@@ -15,6 +15,8 @@ An interactive Power BI dashboard analyzing the Olist Brazilian e-commerce datas
 
 ### Summary
 
+![](./Demos/1.%20Summary%20Tab.gif)
+
 ### Customer & Sales Details
 
 ### Product Details

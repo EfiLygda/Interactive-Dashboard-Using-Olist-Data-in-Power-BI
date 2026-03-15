@@ -6,12 +6,12 @@ The dashboard enables stakeholders to explore key business metrics such as reven
 
 **Tools Used**
 
-``
+```
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data modeling
 - Data visualization
-``
+```
 
 ![](./Demos/9.%20Demo.gif)
 

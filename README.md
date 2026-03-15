@@ -1,4 +1,4 @@
-# Interactive Dashboard Using Olist Data in Power BI
+# Interactive E-commerce Dashboard in Power BI
 
 An interactive Power BI dashboard analyzing the Olist Brazilian e-commerce dataset to uncover insights on sales performance, customer behavior, product categories, and delivery trends.
 

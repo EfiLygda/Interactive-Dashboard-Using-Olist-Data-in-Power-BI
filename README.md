@@ -1,6 +1,17 @@
 # Interactive E-commerce Dashboard in Power BI
 
-An interactive Power BI dashboard analyzing the Olist Brazilian e-commerce dataset to uncover insights on sales performance, customer behavior, product categories, and delivery trends.
+This project presents an interactive Power BI dashboard built using the Brazilian e-commerce Olist dataset. The goal of the dashboard is to analyze sales performance, customer behavior and delivery efficiency.
+
+The dashboard enables stakeholders to explore key business metrics such as revenue, order volume, customer satisfaction, and logistics performance through interactive visualizations.
+
+**Tools Used**
+
+``
+- Power BI
+- DAX (Data Analysis Expressions)
+- Data modeling
+- Data visualization
+``
 
 ![](./Demos/9.%20Demo.gif)
 

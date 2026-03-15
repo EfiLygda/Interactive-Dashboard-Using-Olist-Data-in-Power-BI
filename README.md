@@ -59,13 +59,30 @@ This page provides a high-level summary of business performance, in order to qui
 
 > Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
 
-
+--------------------------
 
 ### Customer & Sales Details
 
-This page provides a high-level summary of business performance, in order to quickly understand overall company performance and sales growth over time.
+This page provides an overview of customer activity, service performance, and key targets.
+
+**Visualizations**: `Customer Details (Total Customers, Returning Customers, Top Customer Overview, Top 10 Customers Overview, Top States by Customers)`, `Service Details (Average Delivery Days, Average Est. Delivery Deviation, Average Review Score)`, `Targets (Total Customers, Late Deliveries)`
 
 ![](./Demos/2.%20Customer%20&%20Service%20Details.gif)
+
+#### Business Questions and Insights
+
+1. How strong is customer retention on the platform?
+> The platform has a large customer base, but the returning customer rate is quite low, suggesting most customers make one-time purchases.
+
+2. Is revenue driven by high-value purchases or frequent buyers?
+> Customer spending varies widely, but high revenue mostly comes from single high-value purchases.
+
+3. Where are most of the customers located geographically?
+> Most customers are concentrated in major Brazilian economic regions, especially São Paulo.
+
+4. Are the delivery expectations met?
+> Orders are often delivered earlier than expected, reflecting efficient logistics operations.
+> Although delivery is generally efficient, some orders still arrive late.
 
 
 ### Product Details

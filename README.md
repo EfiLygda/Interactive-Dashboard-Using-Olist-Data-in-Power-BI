@@ -37,11 +37,11 @@ This page provides a high-level summary of business performance, in order to qui
 
 1. What is the total revenue and number of orders over time? Is the platform growing over time?
 
-**Total Revenue**: $15.6M
-**Total Orders**: 99.44K
+> **Total Revenue**: $15.6M
+> **Total Orders**: 99.44K
 
-The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
-Although, a sharp drop is noted due to incomplete data for the latest month (Sept 2018).
+> The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
+> Although, a sharp drop is noted due to incomplete data for the latest month (Sept 2018).
 
 2. How successful are orders from placement to completion?
 

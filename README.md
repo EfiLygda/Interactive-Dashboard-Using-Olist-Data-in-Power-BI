@@ -4,7 +4,10 @@ This project presents an interactive Power BI dashboard built using the Brazilia
 
 The dashboard enables stakeholders to explore key business metrics such as revenue, order volume, customer satisfaction, and logistics performance through interactive visualizations.
 
-**Tools Used**
+
+![](./Demos/9.%20Demo.gif)
+
+## Tools Used
 
 ```
 - Power BI
@@ -13,9 +16,20 @@ The dashboard enables stakeholders to explore key business metrics such as reven
 - Data visualization
 ```
 
-![](./Demos/9.%20Demo.gif)
-
 ## Dataset 
+
+The dataset contains information about:
+```
+- customers
+- orders
+- payments
+- products
+- sellers
+- reviews
+- geolocation
+```
+
+These tables are connected to analyze the full e-commerce process from purchase to delivery and customer feedback.
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2473556%2F23a7d4d8cd99e36e32e57303eb804fff%2Fdb-schema.png?generation=1714391550829633&alt=media)
 

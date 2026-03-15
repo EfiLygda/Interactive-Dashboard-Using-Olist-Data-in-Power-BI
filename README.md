@@ -39,27 +39,25 @@ This page provides a high-level summary of business performance, in order to qui
 
 > **Total Revenue**: $15.6M
 > **Total Orders**: 99.44K
-
 > The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
 > Although, a sharp drop is noted due to incomplete data for the latest month (Sept 2018).
 
 2. How successful are orders from placement to completion?
 
-Approximately 98% of orders are completed, showing very high operational efficiency.
+> Approximately 98% of orders are completed, showing very high operational efficiency.
 
 3. How satisfied are customers based on review ratings?
 
-**Average Review Score**: 4.09 / 5
-
-Customers generally report positive experiences.
+> **Average Review Score**: 4.09 / 5
+> Customers generally report positive experiences.
 
 4. Which product categories generate the most revenue?
 
-Lifestyle (`Health & Beauty`, `Bed, Bath & Table`, `Sports & Leisure`) and personal products (`Watches & Gifts`, `Computers & Accessories`) dominate revenue, suggesting consumer demand in everyday-use categories.
+> Lifestyle (`Health & Beauty`, `Bed, Bath & Table`, `Sports & Leisure`) and personal products (`Watches & Gifts`, `Computers & Accessories`) dominate revenue, suggesting consumer demand in everyday-use categories.
 
 5. Which regions generate the most revenue?
 
-Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
+> Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
 
 
 

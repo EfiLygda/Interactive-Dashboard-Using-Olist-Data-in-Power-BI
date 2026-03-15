@@ -33,37 +33,31 @@ This page provides a high-level summary of business performance, in order to qui
 
 ![](./Demos/1.%20Summary%20Tab.gif)
 
-#### Business Questions
+#### Business Questions and Insights
 
 > What is the total revenue and number of orders over time? Is the platform growing over time?
-Total Revenue: $15.6M
-Total Orders: 99.44K
+
+**Total Revenue**: $15.6M
+**Total Orders**: 99.44K
+
 The marketplace experienced consistent growth, suggesting increasing customer demand and platform adoption.
-A sharp drop at the end is noted as incomplete data for the latest month (Sept 2018).
+Although, a sharp drop is noted due to incomplete data for the latest month (Sept 2018).
 
 > How successful are orders from placement to completion?
-~98% of orders are completed, Operational efficiency appears very high
+
+Approximately 98% of orders are completed, showing very high operational efficiency.
 
 > How satisfied are customers based on review ratings?
-Average Review Score: 4.09 / 5 ⭐
-Customers generally report positive experiences
+
+**Average Review Score**: 4.09 / 5
+
+Customers generally report positive experiences.
 
 > Which product categories generate the most revenue?
-Top revenue-generating categories:
-Health & Beauty – $1.43M
-Watches & Gifts – $1.29M
-Bed, Bath & Table – $1.24M
-Sports & Leisure – $1.13M
-Computers & Accessories – $1.04M
-Lifestyle and personal products dominate revenue, suggesting consumer demand in everyday-use categories.
+
+Lifestyle (`Health & Beauty`, `Bed, Bath & Table`, `Sports & Leisure`) and personal products (`Watches & Gifts`, `Computers & Accessories`) dominate revenue, suggesting consumer demand in everyday-use categories.
 
 > Which regions generate the most revenue?
-Top revenue regions:
-São Paulo (largest contributor)
-Rio de Janeiro
-Minas Gerais
-Rio Grande do Sul
-Paraná
 
 Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
 

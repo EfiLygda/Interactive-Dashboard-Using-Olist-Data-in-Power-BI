@@ -111,7 +111,8 @@ These categories reflect strong consumer demand for everyday-use and personal pr
 
 ## Dashboard Pages
 
-### Summary
+<details>
+<summary><b>Summary</b></summary>
 
 This page provides a high-level summary of business performance, in order to quickly understand overall company performance and sales growth over time.
 
@@ -140,10 +141,10 @@ This page provides a high-level summary of business performance, in order to qui
 > Sales are heavily concentrated in Brazil’s most economically active states, especially São Paulo.
 -->
 
---------------------------
+</details>
 
-
-### Customer & Sales Details
+<details>
+<summary><b>Customer & Sales Details</b></summary>
 
 This page provides an overview of customer activity, service performance, and key targets.
 
@@ -167,10 +168,10 @@ This page provides an overview of customer activity, service performance, and ke
 > Orders are often delivered earlier than expected, reflecting efficient logistics operations.
 > Although delivery is generally efficient, some orders still arrive late.
 -->
---------------------------
+</details>
 
-
-### Product Details
+<details>
+<summary><b>Product Details</b></summary>
 
 This page provides an overview of product performance and ordering trends.
 
@@ -190,10 +191,10 @@ This page provides an overview of product performance and ordering trends.
 3. Which categories rely on high sales volume rather than high price?
 > Bed Bath Table has high order volume but lower average price.
 -->
---------------------------
+</details>
 
-
-### Map
+<details>
+<summary><b>Map</b></summary>
 
 This page provides a map visualizating key metrics `Completed Orders`, `Customers`, `Late Deliveries`, `Orders`, `Revenue`.
 
@@ -217,10 +218,10 @@ This page provides a map visualizating key metrics `Completed Orders`, `Customer
 5. Which region currently has the lowest market penetration?
 > The Northern region of Brazil shows the lowest market penetration. States such as Amazonas and neighboring northern areas have relatively small revenue markers compared to other parts of the country.
 -->
---------------------------
+</details>
 
-
-### Tooltips
+<details>
+<summary><b>Tooltips</b></summary>
 
 The bellow pages include helpful tooltips used in selected visuals in the dashboard. 
 
@@ -238,11 +239,12 @@ The bellow pages include helpful tooltips used in selected visuals in the dashbo
 
 ![](./Demos/7.%20Review%20Score%20Tooltip.PNG)
 
---------------------------
+</details>
 
-
-### Colorset
+<details>
+<summary><b>Colorset</b></summary>
 
 This page provides the hex codes of the colours used in the dashboard.
 
 ![](./Demos/8.%20Colour%20Sets.PNG)
+</details>

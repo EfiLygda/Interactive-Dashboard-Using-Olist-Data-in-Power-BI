@@ -25,6 +25,9 @@ The available tables are connected to analyze the full e-commerce process from p
 
 ## Business Questions & Insights
 
+<details>
+<summary>Platform Growth & Sales Performance</summary>
+
 ### Platform Growth & Sales Performance
 
 1. How is the platform performing over time?
@@ -34,6 +37,8 @@ The available tables are connected to analyze the full e-commerce process from p
 
 2. Is revenue driven by high-value purchases or frequent buyers?
 > Customer spending varies significantly, but overall revenue is largely driven by single high-value purchases rather than frequent repeat purchases.
+
+</details>
 
 ### Order Fulfillment & Customer Satisfaction
 1. How successful are orders from placement to completion?

@@ -26,9 +26,7 @@ The available tables are connected to analyze the full e-commerce process from p
 ## Business Questions & Insights
 
 <details>
-<summary>Platform Growth & Sales Performance</summary>
-
-### Platform Growth & Sales Performance
+<summary><b>Platform Growth & Sales Performance</b></summary>
 
 1. How is the platform performing over time?
 > **Total Revenue**: $15.6M

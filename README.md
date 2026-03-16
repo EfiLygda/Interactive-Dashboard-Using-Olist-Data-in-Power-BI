@@ -23,6 +23,12 @@ The available tables are connected to analyze the full e-commerce process from p
 > This repository uses the data available at [Kaggle](https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database).
 
 
+## Business Questions & Insights
+
+### Sales Performance
+
+
+
 ## Dashboard Pages
 
 ### Summary
